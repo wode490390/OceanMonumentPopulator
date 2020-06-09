@@ -1,0 +1,9 @@
+main: cn.wode490390.nukkit.ompop.OceanMonumentPlugin
+name: "OceanMonumentPopulator"
+description: "This is a plugin that implements the ocean monument feature for Nukkit servers"
+author: "wode490390"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: STARTUP
+softdepend: ["MobPlugin"]
